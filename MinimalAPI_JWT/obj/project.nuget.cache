@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xT/NV7xwWlwpQI8ieF5WaRemw1EtTED04x3kAZmw5bTdyEv3kGLQWw6LZkfpG5o96qpCX8+MH/kTW4T9tStCHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\houda\\Desktop\\Projects\\Learn Tools\\MinimalAPI_JWT\\MinimalAPI_JWT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\houda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\houda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\houda\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\houda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\houda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\houda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\houda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
